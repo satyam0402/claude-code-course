@@ -2,6 +2,10 @@
 
 > Explore, understand, add features, test, debug & refactor a RAG chatbot codebase using Claude Code.
 
+## Official Repos
+- **Starting codebase:** [starting-ragchatbot-codebase](https://github.com/https-deeplearning-ai/starting-ragchatbot-codebase) (fork this)
+- **After Lesson 5:** [ragchatbot-codebase](https://github.com/https-deeplearning-ai/ragchatbot-codebase)
+
 ## Lessons Covered
 - Lesson 3: Setup & Codebase Understanding
 - Lesson 4: Adding Features

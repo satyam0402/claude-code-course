@@ -27,6 +27,7 @@ Learn best practices for agentic coding with **Claude Code** — an AI assistant
 | 9 | Creating Web App from Figma Mockup | 9 min | [notes/09-figma-web-app.md](notes/09-figma-web-app.md) |
 
 **Quick References:**
+- [Course Resources & Setup](notes/00-course-resources.md) — Installation, all repo links, docs
 - [Cheatsheet](notes/cheatsheet.md) — One-page "read once, remember forever"
 - [Key Commands](notes/key-commands.md) — All Claude Code commands in one place
 
