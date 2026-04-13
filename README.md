@@ -60,7 +60,7 @@ Learn best practices for agentic coding with **Claude Code** — an AI assistant
 
 ```bash
 # Clone
-git clone https://github.com/YOUR_USERNAME/claude-code-course.git
+git clone https://github.com/satyam0402/claude-code-course.git
 cd claude-code-course
 
 # Browse notes
